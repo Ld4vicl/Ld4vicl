@@ -1,9 +1,0 @@
-# GitHub Repo Configuration
-
-# Mark repository as having ASCII art
-ascii_art: true
-
-# Display settings
-readme:
-  render_ascii: true
-  highlight_ascii: true 
