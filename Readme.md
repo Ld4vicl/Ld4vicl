@@ -13,7 +13,7 @@
        |  |   [======    ] 60%                      |   |    | "Drowning in information,       |               
         |  |  [==========] 100%                     |    |   |    but starving in knowledge"   |                           
        |  |                                          |  |    |          -someone i forgot name |                         
-       |   | ┌──(d4vicl㉿DEVICE-LC1V4Cl)-[~]        |   |   +---------------------------------+                          
+       |   | ┌──(d4vicl㉿DEVICE-LC1V4Cl)-[~]        |   |    +---------------------------------+                          
        |   | └─$ whoami                            |    | 
         | |  root                                  |   |  
        |   |_-___-__-__-_-__-_-_-_-_-_-_-__-_-_-_-_-_-| |                                     
