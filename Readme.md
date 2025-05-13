@@ -9,9 +9,9 @@
        |   |                                        |    |    
          | | ┌──(d4vicl㉿DEVICE-LC1V4Cl)-[~]        |   |  
        |  |  └─$ ./cook_the_system.sh              |    |    
-       |   |  [          ] 0%                        |  |    +---------------------------------+       
-       |  |   [======    ] 60%                      |   |    |"People Drowning in information, |               
-        |  |  [==========] 100%                     |    |   |   but starving in knowledge"    |                           
+       |   | [          ] 0%                         |  |    +---------------------------------+       
+       |  |  [======    ] 60%                       |   |    |"People Drowning in information, |               
+        |  | [==========] 100%                      |    |   |   but starving in knowledge"    |                           
        |  |                                          |  |    |          -someone i forgot name |                         
        |   | ┌──(d4vicl㉿DEVICE-LC1V4Cl)-[~]        |   |    +---------------------------------+                          
        |   | └─$ whoami                            |    | 
