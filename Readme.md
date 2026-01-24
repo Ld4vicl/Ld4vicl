@@ -3,17 +3,17 @@
        /                                                \
        |    _-_-___-_-__-___-_-_-_--___---_-__-_-__--__-_
        |   |                                        |   | 
-        |  | ┌──(Vuk3r㉿DEVICE-LC1V4Cl)-[~]         |  | 
+        |  | ┌──(vuk3r㉿DEVICE-LC1V4Cl)-[~]         |  | 
        |   | └─$ whoami                            |    | 
-        |  | Vuk3r                                 |   | 
+        |  | vuk3r                                 |   | 
        |   |                                        |   |
-         | | ┌──(Vuk3r㉿DEVICE-LC1V4Cl)-[~]         |   |  
+         | | ┌──(vuk3r㉿DEVICE-LC1V4Cl)-[~]         |   |  
        |  |  └─$ ./cook_the_system.sh              |    |    
        |   |  [          ] 0%                        |  |    +---------------------------------+
        |  |   [======    ] 60%                      |   |    |"People Drowning in information, |
         |  |  [==========] 100%                     |    |   |   but starving in knowledge"    |
        |  |                                          |  |    |          -someone i forgot name |
-       |   | ┌──(Vuk3r㉿DEVICE-LC1V4Cl)-[~]         |   |    +---------------------------------+
+       |   | ┌──(vuk3r㉿DEVICE-LC1V4Cl)-[~]         |   |    +---------------------------------+
        |   | └─$ whoami                            |    | 
         | |  root                                  |   |  
        |   |_-___-__-__-_-__-_-_-_-_-_-_-__-_-_-_-_-_-| |
